@@ -1,0 +1,15 @@
+.users{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px;
+}
+.user{    
+    width: 170px;
+    padding: 20px 20px;
+    text-align: center;
+    display: block;
+    background: rgb(114, 226, 129);
+    border: 2px solid rgb(234, 125, 205);
+    border-radius: 10px;
+}
